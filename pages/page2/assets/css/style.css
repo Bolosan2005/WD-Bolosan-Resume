@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url(/pages/page2/assets/img/red\ bg.jpg)no-repeat;
+    background: url(../img/red\ bg.jpg)no-repeat;
     background-size: cover;
     color:#ededed;
     height: 100%;
